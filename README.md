@@ -1,7 +1,7 @@
 # FindMaxSumInPyramid
 
 
-## Question
+## Question 1:
 Write code for below problem. The input below is just an example and you should implement independent from the input. Please paste the link to the answer shared using pastebin, dotnetfiddle, jsfiddle, or any other similar web-site.
 You will have an orthogonal triangle input from a file and you need to find the maximum sum of the numbers according to given rules below;
 
@@ -23,7 +23,7 @@ As you can see this has several paths that fits the rule of NOT PRIME NUMBERS; 1
 
 Paste the link to your code.
 
-## Answer : 
+## Answer 1: 
 
 
         static void Main(string[] args)
